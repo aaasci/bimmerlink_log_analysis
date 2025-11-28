@@ -68,7 +68,7 @@ ac090ed4bb7101c34980c5f7092dcd310bc206c8b47034c5a773dadbf42432a2
 
 <p>Within the application, simply <b>select</b> any log file exported from Bimmerlink. No additional configuration is needed.</p>
 
-<img width="546" height="376" alt="Picture_ui" src="https://github.com/user-attachments/assets/fed85fde-e15d-47a9-825a-9b3ef2b74c94" />
+<img width="546" height="376" alt="Picture_ui" src="https://github.com/user-attachments/assets/2e57b114-8d31-4691-a80c-00205f2d9978" />
 
 <h2><b>The application will generate two outputs:</b></h2>
 
@@ -95,11 +95,12 @@ https://github.com/armanasci/bimmerlink_log_analysis/blob/main/test_data/2025-07
 
 <h2><i><b>Some Visual Examples;</b></i></h2>
 
-<img width="624" height="249" alt="Picture2" src="https://github.com/user-attachments/assets/66d4bcd0-9d25-4371-b21e-ae98c55e4f86" />
-<img width="624" height="249" alt="Picture3" src="https://github.com/user-attachments/assets/fd80c120-8438-41c1-b7d5-3e99f99e1c87" />
-<img width="624" height="251" alt="Picture4" src="https://github.com/user-attachments/assets/61aa161f-f702-4ab2-946f-29ad03c32bc3" />
-<img width="624" height="247" alt="Picture5" src="https://github.com/user-attachments/assets/5ac9dd5f-a9c1-49c2-8690-6a27d56d72b3" />
-<img width="624" height="250" alt="Picture6" src="https://github.com/user-attachments/assets/a34019fe-78c8-4f64-86d6-13578fd63e12" />
+<img width="624" height="249" alt="Picture2" src="https://github.com/user-attachments/assets/d8520d86-4cd6-4cfc-81ab-4a79f8d811dd" />
+<img width="624" height="249" alt="Picture3" src="https://github.com/user-attachments/assets/15e6c868-64c1-45ca-9f81-995b695a4340" />
+<img width="624" height="251" alt="Picture4" src="https://github.com/user-attachments/assets/2c9d1310-5dc7-43fe-806e-a0d4fa4bd90a" />
+<img width="624" height="247" alt="Picture5" src="https://github.com/user-attachments/assets/4d5405c9-3522-49ce-99b8-9aede73171d0" />
+<img width="624" height="250" alt="Picture6" src="https://github.com/user-attachments/assets/e511a96c-c653-41ce-8ebe-9d70e7923dd3" />
+
 
 
 
